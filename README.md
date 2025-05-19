@@ -91,3 +91,12 @@ fi
 
 
 ```
+
+![Снимок экрана (1071)](https://github.com/user-attachments/assets/74e3d729-534d-4bc0-945c-6782503b84a1)
+
+![Снимок экрана (1072)](https://github.com/user-attachments/assets/35080ca3-aef0-44b4-8b57-a1fe53c1f205)
+
+![Снимок экрана (1073)](https://github.com/user-attachments/assets/d6e3449b-6c51-486f-b964-c29f1773a62f)
+
+
+
